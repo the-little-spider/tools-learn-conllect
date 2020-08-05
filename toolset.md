@@ -1,10 +1,22 @@
+# 软件推荐
+## 压缩软件
+[Bandizip]
+## 对比工具
+[Beyond Compare 4]
+## 不同设备间文件传输
+[Feem]
+## Windows文件检索
+[Everything]  
+[Find and Run Robot]
+
+
 # 可视化工具推荐
 ## git
 [SourceTree]
 ## redis
-[redis.other.]
+[Another Redis Desktop Manager]
 ## 数据库
-[DBeaver]
+[DBeaver]  
 
 
 
