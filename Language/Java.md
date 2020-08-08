@@ -1,9 +1,14 @@
-## 基础&面试
+### 基础&面试
 
-### [「Java学习+面试指南」](https://github.com/Snailclimb/JavaGuide)
+* [「Java学习+面试指南」](https://github.com/Snailclimb/JavaGuide)
 
-### [CyCJava](https://github.com/CyC2018/CS-Notes)
+* [CyCJava](https://github.com/CyC2018/CS-Notes)
 
 
-## 深入
-### [Java 虚拟机底层原理知识总结](https://github.com/doocs/jvm)
+### 上手项目
+* [Flappy Bird](https://github.com/kingyuluk/FlappyBird)
+
+
+
+### 深入
+* [Java 虚拟机底层原理知识总结](https://github.com/doocs/jvm)
