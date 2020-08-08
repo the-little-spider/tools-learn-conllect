@@ -24,6 +24,6 @@ https://github.com/TwoWater/Python/blob/master/Res/FQ.md
 
     当然，最好的还是自己能搭建 ss/ssr 服务器，这里有个适合初学者的教程。
 
-    传送门：[教程地址](../Res/自己搭建ss:ssr服务器.md)
+    传送门：[教程地址](https://github.com/TwoWater/Python/blob/master/Res/%E8%87%AA%E5%B7%B1%E6%90%AD%E5%BB%BAss:ssr%E6%9C%8D%E5%8A%A1%E5%99%A8.md)
 
 
