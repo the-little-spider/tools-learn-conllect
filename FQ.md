@@ -26,4 +26,4 @@ https://github.com/TwoWater/Python/blob/master/Res/FQ.md
 
     传送门：[教程地址](https://github.com/TwoWater/Python/blob/master/Res/%E8%87%AA%E5%B7%B1%E6%90%AD%E5%BB%BAss:ssr%E6%9C%8D%E5%8A%A1%E5%99%A8.md)
 
-
+    [在 Vultr 的 centOS 8 上安装 ssr 踩坑记](https://cheereus.com/2020/02/07/%E5%9C%A8-Vultr-%E7%9A%84-centOS-8-%E4%B8%8A%E5%AE%89%E8%A3%85-ssr-%E8%B8%A9%E5%9D%91%E8%AE%B0/)
