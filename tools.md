@@ -1,4 +1,6 @@
 ## 软件推荐
+### Markdown文本工具
+* [Typora]()
 ### 压缩包管理
 * [Bandizip](http://www.bandisoft.com/)
 ### 文件对比工具
