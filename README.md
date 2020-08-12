@@ -6,5 +6,6 @@
 * [Markdown 教程](https://www.runoob.com/markdown/md-tutorial.html)
 
 
-### 学习Git 分支
-* https://learngitbranching.js.org/
+### 学习Git
+* <https://learngitbranching.js.org/>
+* [git - 简明指南](https://rogerdudler.github.io/git-guide/index.zh.html)
