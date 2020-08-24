@@ -9,15 +9,20 @@
  
  
  ````java
- public static int change(int n, int d, int[] a) {
+public static int change(int n, int d, int[] a) {
+        // 只有一个元素
         if (n == 1) {
             return 0;
         }
+        // 元素排序
         Arrays.sort(a);
+
+        /*全部元素变成相等元素，说明任意两个元素相减可以被d整除，
+        这里用二分，头尾相减，结果为头尾相减除以d*/
         int result = 0;
         for (int i = 0; i < n / 2 + 1; i++) {
             if ((a[n - i - 1] - a[i]) % d == 0) {
-                result += (a[n - i - 1] - a[i]) / d / 2 + 1;
+                result += (a[n - i - 1] - a[i]) / d;
             } else {
                 return -1;
             }
