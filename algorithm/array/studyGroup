@@ -15,16 +15,19 @@
 
   ````java
 public int solution(int n, int m, int[] nums) {
-		int[] sub = new int[n-1];
-		for(int i = 0; i < (n-1); i++){
-			sub[i] = nums[i+1] - nums[i];
-		}
-		Arrays.sort(sub);
-		int ans = nums[n-1] - nums[0];
-		for(int i = 0;i< (m-1) ;i++){
-			ans = ans - sub[n-2-i];
-		}
-		return ans;
+	int[] sub = new int[n-1];
+	//计算出所有相邻的差值
+	for(int i = 0; i < (n-1); i++){
+		sub[i] = nums[i+1] - nums[i];
 	}
+	//升序排序
+	Arrays.sort(sub);
+	//极差减去最大的 m-1 个相邻的差值可得到最小的差值的总和
+	int ans = nums[n-1] - nums[0];
+	for(int i = 0;i< (m-1) ;i++){
+		ans = ans - sub[n-2-i];
+	}
+	return ans;
+}
 
   ````
