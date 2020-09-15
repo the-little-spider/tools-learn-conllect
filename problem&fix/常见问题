@@ -1,0 +1,4 @@
+* maven项目编译时找不到包（有包）
+  * cmd，cd至项目路径
+  * mvn clean install -Dmaven.test.skip=true
+  * mvn -U idea:idea
