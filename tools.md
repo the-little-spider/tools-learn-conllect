@@ -10,6 +10,13 @@
 ### Windows文件检索
 * [Everything](https://www.voidtools.com/zh-cn/)  
 * [Find and Run Robot](https://find-and-run-robot.en.softonic.com/)
+### win远程控制
+* [TeamViewer]()
+* [向日葵]()
+* [RemoteApp]()(客户端本机无须安装系统与应用程序的情况下也能正常使用远端发布的各种的桌面与应用。)
+### 播放软件
+* [Potplayer]()
+
 
 ***
 ## 可视化工具推荐
@@ -18,7 +25,8 @@
 ### redis
 * [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager)
 ### 数据库
-* [DBeaver](https://dbeaver.io/)  
+* [DBeaver](https://dbeaver.io/)
+* [Navicat]()  
 
 
 
