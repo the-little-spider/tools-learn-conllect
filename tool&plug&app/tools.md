@@ -1,6 +1,6 @@
 ## 软件推荐
 ### Markdown文本工具
-* [Typora]()
+* [Typora](https://www.typora.io/)
 ### 压缩包管理
 * [Bandizip](http://www.bandisoft.com/)
 ### 文件对比工具
@@ -11,11 +11,11 @@
 * [Everything](https://www.voidtools.com/zh-cn/)  
 * [Find and Run Robot](https://find-and-run-robot.en.softonic.com/)
 ### win远程控制
-* [TeamViewer]()
+* [TeamViewer](https://www.teamviewer.cn/cn/teamviewer-automatic-download/)
 * [向日葵]()
 * [RemoteApp]()(客户端本机无须安装系统与应用程序的情况下也能正常使用远端发布的各种的桌面与应用。)
 ### 播放软件
-* [Potplayer]()
+* [Potplayer](https://potplayer.org/gengxin/410.html)
 ### 桌面整理工具
 * [Fences]() 
 ### win系统工具
