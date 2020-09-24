@@ -16,6 +16,7 @@
 
 ### 上手项目
 * [Flappy Bird](https://github.com/kingyuluk/FlappyBird)
+* [mall](https://github.com/macrozheng/mall)
 
 
 
