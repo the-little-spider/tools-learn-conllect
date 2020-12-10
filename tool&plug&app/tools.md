@@ -20,7 +20,10 @@
 * [Fences]() 
 ### win系统工具
 * WinQuickLook(点击文件按空格可快速预览)
-
+### win截图工具
+* Snipaste
+### 剪贴板
+*  Ditto
 
 ***
 ## 可视化工具推荐
