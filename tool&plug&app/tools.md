@@ -23,7 +23,7 @@
 ### win截图工具
 * Snipaste
 ### 剪贴板
-*  Ditto
+*  Ditto(https://ditto-cp.sourceforge.io/)
 
 ***
 ## 可视化工具推荐
