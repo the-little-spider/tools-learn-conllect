@@ -1,3 +1,5 @@
+打包(https://www.cnblogs.com/mq0036/p/8566427.html)  
+
 最简单的jar包——直接输出hello  
 （1）用记事本写一个Hello.java的文件
 ```
